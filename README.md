@@ -30,17 +30,6 @@ Environment: Jupyter Notebook
 Key metrics to evaluate the model:
 Accuracy: Overall performance.
 
-📝 How to Run
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebooks or Python scripts in the src/ directory for training and evaluation.
-
 📌 Future Enhancements
 Experiment with deep learning models like Autoencoders or LSTMs.
 Explore real-time fraud detection pipelines.
